@@ -5,5 +5,3 @@ Hopefully a slightly smart application to take rough measurements with a microsc
 Rough pipeline:
 
 Image from microscope -> scale calibration using some sort of printed pattern -> compensation for distortion -> canny edge detection -> vertex data -> regression for primative shapes -> dimensional data
-
-This is just a vibe coded test, never actually used ai to program things so this is new lol
